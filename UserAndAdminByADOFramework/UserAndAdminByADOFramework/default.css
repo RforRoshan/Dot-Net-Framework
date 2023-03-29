@@ -1,0 +1,28 @@
+﻿body {
+}
+.my-lblLoginHeading {
+    font-size: 50px;
+    padding: 5px;
+    color: blueviolet;
+}
+.login-lbltxtbox{
+
+}
+.login-lbl {
+    font-size: 20px;
+}
+.login-txtbox {
+    font-size: 20px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+.login-btn {
+    border-radius: 15px;
+    background-color:aqua;
+    font:Red;
+    font-size:30px;
+    margin-top:30px;
+}
+.login-lbltxtbox{
+    padding:5px;
+}

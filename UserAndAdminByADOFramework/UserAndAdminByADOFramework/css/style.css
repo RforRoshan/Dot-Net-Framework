@@ -1,0 +1,42 @@
+﻿.my-btn-create-user {
+    border-radius: 15px;
+    background-color: aqua;
+    font: Red;
+    font-size: 30px;
+    margin: 30px;
+}
+.my-lbl-heading {
+    font-size: 50px;
+    color: blueviolet;
+}
+.my-btn-grid {
+    border-radius: 15px;
+    background-color: dodgerblue;
+    color: white;
+    font:bold;
+    font-size:15px;
+    padding:4px;
+}
+.my-lbl{
+    font-size:20px;
+    color:brown;
+    padding:10px;
+}
+.my-heading {
+    font-size: 50px;
+    color: blueviolet;
+}
+.my-btn {
+    border-radius: 15px;
+    background-color: dodgerblue;
+    color: white;
+    font: bold;
+    font-size: 20px;
+    padding: 4px;
+    margin:10px;
+}
+.my-txtbox {
+    font-size: 20px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}

@@ -1,0 +1,28 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="QRForEmployee.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="Stylesheet" href="<%= ResolveUrl("default.css") %>" type="text/css" />
+</head>
+<body>
+    
+      <header CssClass="site-header">
+  <h1 class="site-header">Hello Every One</h1>
+</header>
+    <form id="form1" runat="server">
+       
+        <div>
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+             
+            </asp:ContentPlaceHolder>
+            
+        </div>
+    </form>
+</body>
+</html>

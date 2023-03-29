@@ -1,0 +1,31 @@
+﻿body {
+    padding:5px;
+}
+.my-heading{
+    font-size:30px;
+    padding:5px;
+    color:blueviolet;
+}
+.my-lbl{
+    font-size:20px;
+
+}
+.my-txtbox{
+    font-size:20px;
+    background-color:aliceblue;
+    border-radius:10px;
+    
+}
+.my-lbltxtbox{
+    margin:10px;
+
+}
+.my-btn-my-my {
+    border-radius: 15px;
+    background-color: dodgerblue;
+    color: white;
+    font: bold;
+    font-size: 20px;
+    padding: 4px;
+    margin:10px;
+}
